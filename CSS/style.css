@@ -1,0 +1,135 @@
+.header-name {
+    font-size: 30px;
+    float: left;
+    width: 20%;
+}
+
+.header {
+    border-width: 5px;
+    length: 20px;
+    /* width:fit-content; */
+}
+
+/* ul {
+    width: 80%;
+    list-style-type: none;
+    float: right;
+    font-size: 20px;
+}
+
+li {
+    display: inline;
+} */
+
+.main-body {
+    margin-top: 100px;
+}
+
+.main-body-heading {
+    text-align: center;
+}
+
+.main-body-main-heading {
+    font-size: 70px;
+}
+
+.main-body-intro-heading {
+    font-size: 30px;
+}
+
+.main-body-services1{
+    float: left;
+    width: 33%;
+}
+.main-body-services:after
+{
+    content: "";
+    display: table;
+    clear: both;
+}
+.main-body-services-frontend-image{
+    width:200px;
+    height:200px;
+    padding-left:120px;
+}
+.main-body-services-frontend-para{
+    padding:10px;
+    font-size:20px;
+}
+.main-body-services-PerformanceSEO-image{
+    padding-left:120px;
+}
+.main-body-services-PerformanceSEO-heading{
+    font-size:25px;
+    padding-top: 5px;
+}
+.main-body-services-PerformanceSEO-para{
+    font-size:20px;
+}
+.main-body-services-crossBrowser-image{
+   width:200px;
+   height:200px;
+   padding-left:120px;
+}
+.main-body-services2{
+    float:left;
+    width:33%;
+}
+.main-body-services-crossBrowser-heading{
+    font-size:25px;
+    padding-top:5px;
+    padding-left:20px;
+}
+.main-body-services-heading{
+    text-align: center;
+    font-size:42px;
+}
+.main-body-services-frontend-heading{
+    text-align:center;
+    font-size: 25px;
+}
+.main-body-FeaturedWork-para {
+    font-size: 60px;
+    text-align: center;
+}
+.featuredwork-html-css{
+    width:300px;
+    height:200px;
+    padding-left:70px;
+}
+.main-body-FeaturedWork1{
+    /* padding-left:20px; */
+    width:33%;
+    float:left;
+}
+.main-body-FeaturedWork:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.main-body-FeaturedWork1-para{
+    font-size: 20px;
+    text-align: center;
+    padding:10px;
+    /* padding-left:50px; */
+}
+.featuredwork-react{
+    width:200px;
+    height:200px;
+    padding-left:110px;
+}
+.main-body-FeaturedWork2{
+    width:33%;
+    float:left;
+}
+.main-body-FeaturedWork2-para{
+    text-align: center;
+}
+.main-body-skills{
+    font-size:35px;
+    text-align: center;
+}
+.main-body-skills-ul{
+    list-style-type: none;
+}
